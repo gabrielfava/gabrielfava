@@ -13,4 +13,4 @@ I am a Full Stack developer at IBM.
 - 📩 Any help? Send me an [e-mail](mailto:eu@gabrielfava.com.br).
 
 
-[![Fava logo](https://assets.gabrielfava.com.br/fava_logo_simples.png](https://www.gabrielfava.br/)
+[![Fava logo](https://assets.gabrielfava.com.br/fava_logo_simples.png)](https://www.gabrielfava.br/)
