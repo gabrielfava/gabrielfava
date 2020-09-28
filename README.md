@@ -11,3 +11,6 @@ I am a Full Stack developer at IBM.
 - 👨🏻‍💻 No frills with programming languages, working with a language that is needed, already worked with Node.js/Angular/Java/C#/.netCore/PHP/Vue.js
 - 🤘🏻 UX/UI ennthusiast.
 - 📩 Any help? Send me an [e-mail](mailto:eu@gabrielfava.com.br).
+
+
+[![Fava logo](https://assets.gabrielfava.com.br/fava_logo_simples.png](https://www.gabrielfava.br/)
