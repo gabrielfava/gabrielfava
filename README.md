@@ -13,8 +13,8 @@ I am a Full Stack developer at IBM.
 - 📩 Any help? Send me an [e-mail](mailto:eu@gabrielfava.com.br).
 
 
-![Fava's github stats](https://github-readme-stats.vercel.app/api?username=gabrielfava&show_icons=true&count_private=true&hide=contribs)
-![Fava's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfava&hide=html,css&langs_count=12&layout=compact)
+![Fava's github stats](https://github-readme-stats.vercel.app/api?username=gabrielfava&show_icons=true&count_private=true)
+![Fava's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfava&langs_count=20)
 
 
 [![Fava logo](https://assets.gabrielfava.com.br/fava_logo_simples.png)](https://www.gabrielfava.br/)
