@@ -1,5 +1,5 @@
 # Gabriel Fava
-
+![](https://hit.yhype.me/github/profile?user_id=7219928)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielfava/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielfava/)
 
@@ -41,4 +41,5 @@ I am a Full Stack developer at IBM, i am graduated in computer science (BRAZIL/2
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/photoshop/photoshop-line.svg" alt="ps" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" width='50' height='50'/>
 </div>
-![](https://hit.yhype.me/github/profile?user_id=7219928)
+
+
