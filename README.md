@@ -6,7 +6,7 @@
 ## Hey Buddy! ✌🏻
 
 My name is Gabriel Fava, but you can simply call me as Fava :) 
-I am a Full Stack developer at IBM, i am graduated in computer science (BRAZIL/2018) and postgraduate in Software Engineering (BRAZIL/2022), specialization in WEB development architecture (BRAZIL/2020) 
+I am a Software Engineer and Tech Lead at IBM, i am graduated in computer science (BRAZIL/2018) and postgraduate in Software Engineering (BRAZIL/2022), specialization in WEB development architecture (BRAZIL/2020) 
 
 - 👨🏻‍💻 No frills with programming languages, working with a language that is needed, already worked with Node.js/Angular/Java/C#/.netCore/PHP/Vue.js
 - 🤘🏻 UX/UI ennthusiast.
