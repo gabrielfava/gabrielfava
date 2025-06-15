@@ -3,10 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielfava/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielfava/)
 
-Hi! I'm Gabriel Fava — but you can call me Fava. 👋
+👋 Hi! I'm Gabriel Fava — but you can call me Fava. 
+
 I'm a Tech Lead and Software Engineer at IBM, where I help build scalable, high-impact solutions across global teams.
 
-💼 With over 6 years of hands-on experience, I lead cross-functional initiatives focused on web development, API design, cloud architecture, and performance optimization. I'm passionate about translating business needs into elegant and efficient code, balancing tech excellence with user value.
+💼 With over 10 years of hands-on experience, I lead cross-functional initiatives focused on web development, API design, cloud architecture, and performance optimization. I'm passionate about translating business needs into elegant and efficient code, balancing tech excellence with user value.
 
 🎓 I hold a Bachelor’s degree in Computer Science (Brazil, 2018), a Postgraduate degree in Software Engineering (2022), and a Specialization in Web Development Architecture (2020). I'm always learning and staying sharp with modern technologies and industry practices.
 
