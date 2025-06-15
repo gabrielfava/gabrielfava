@@ -3,14 +3,28 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielfava/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielfava/)
 
-## Hey Buddy! ✌🏻
+Hi! I'm Gabriel Fava — but you can call me Fava. 👋
+I'm a Tech Lead and Software Engineer at IBM, where I help build scalable, high-impact solutions across global teams.
 
-My name is Gabriel Fava, but you can simply call me as Fava :) 
-I am a Software Engineer and Tech Lead at IBM, i am graduated in computer science (BRAZIL/2018) and postgraduate in Software Engineering (BRAZIL/2022), specialization in WEB development architecture (BRAZIL/2020) 
+💼 With over 6 years of hands-on experience, I lead cross-functional initiatives focused on web development, API design, cloud architecture, and performance optimization. I'm passionate about translating business needs into elegant and efficient code, balancing tech excellence with user value.
 
-- 👨🏻‍💻 No frills with programming languages, working with a language that is needed, already worked with Node.js/Angular/Java/C#/.netCore/PHP/Vue.js
-- 🤘🏻 UX/UI ennthusiast.
-- 📩 Any help? Send me an [e-mail](mailto:eu@gabrielfava.com.br).
+🎓 I hold a Bachelor’s degree in Computer Science (Brazil, 2018), a Postgraduate degree in Software Engineering (2022), and a Specialization in Web Development Architecture (2020). I'm always learning and staying sharp with modern technologies and industry practices.
+
+🛠️ Not tied to one stack — I use what the problem demands. I’ve worked with:
+Node.js, Java, C#/.NET Core, PHP
+Angular, Vue.js
+SQL, ExcelJS, XML, and custom data visualization tools
+CI/CD pipelines, canary deployments, and observability tools like Dynatrace
+
+🚀 Recently, I’ve led efforts involving:
+Migrating GitHub Actions to Jenkins
+Implementing telemetry pipelines to enhance business visibility
+Designing dashboards and Excel automation using ExcelJS and XML
+Structuring canary deployments for smooth version rollouts
+
+🎨 Also a UX/UI enthusiast — I care about intuitive interfaces as much as I do about clean architecture.
+🤝 I enjoy mentoring, sharing knowledge, and creating impact through technology. Whether it’s aligning teams on vision or diving deep into code reviews, I thrive at the intersection of people and tech.
+📩 Want to connect or need help with a tech challenge? Just drop me an [e-mail](mailto:eu@gabrielfava.com.br)!
 
 
 ![Fava's github stats](https://github-readme-stats.vercel.app/api?username=gabrielfava&show_icons=true&count_private=true)
